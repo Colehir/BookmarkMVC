@@ -1,0 +1,26 @@
+a.link {
+	white-space: pre;
+	padding: 15px 60px 15px 15px;
+	margin-left: 45px;
+	display: block;
+	line-height: 1.2;
+	transition: color 0.4s;
+	width: 50%;
+}
+
+label {
+	width: 50%;
+}
+
+#submit,
+#cancel {
+	color: inherit;
+	margin: 3px;
+	padding: 3px 7px;
+	text-decoration: none;
+	border: 1px solid transparent;
+	border-radius: 3px;
+}
+.hidden {
+	display: none;
+}
